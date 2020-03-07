@@ -8,7 +8,7 @@
 [Litecoin CLI API](https://www.kompulsa.com/litecoin-cli-commands/)
 
 ## Litecoin Explorer
-[cryptoid ltc](https://chainz.cryptoid.info/ltc/)
+[cryptoid ltc](https://chainz.cryptoid.info/ltc/)  
 [blockcypher ltc](https://live.blockcypher.com/ltc/)
 
 ## Build method
